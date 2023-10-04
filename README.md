@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @tCimcirimci
-- 👀 I’m Lua Developer
-- 📫 How to reach me you can reach me on discord Cimcirimci#2865
+
